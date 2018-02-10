@@ -1,0 +1,1 @@
+<?php echo'<li class="col-1">'.$_POST['name'].'</li><li class="col-2">'.$_POST['login'].'</li><li class="col-3">'.$_POST['email'].'</li>'?>
